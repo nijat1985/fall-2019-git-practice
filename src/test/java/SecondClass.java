@@ -8,5 +8,13 @@ public class SecondClass {
 //        System.out.println("hi every one");
 //        System.out.println("hi every one");
 
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+        System.out.println("hi every one");
+
     }
 }
